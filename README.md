@@ -6,7 +6,7 @@ This project is a responsive web application built with Next.js and Tailwind CSS
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/munib-mushtaq/nextjs-test-task
    cd your-repo
    ```
 
@@ -16,10 +16,11 @@ This project is a responsive web application built with Next.js and Tailwind CSS
    npm install
    ```
 
-3. **Run the Development Server:**
+3. **Run the Production Server:**
    Start the Next.js development server:
    ```bash
-   npm run dev
+   npm run build
+   npm run start
    ```
 
 4. **Open the Application:**
@@ -71,4 +72,3 @@ Total time spent: **4.7 hours**
 
 ---
 
-This `README.md` provides a comprehensive overview of the setup process, technical decisions, assumptions, and time spent on the task, with additional details on SEO, performance optimizations, and breadcrumb navigation.
